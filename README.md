@@ -3,9 +3,9 @@
 Welcome to my GitHub! I'm an aspiring Data Analyst who's passionate about making sense of data and turning it into actionable insights.
 
 📍 Based in Mumbai, India  
-📬 Reach me at: www.linkedin.com/in/gaurav-sakpal-5021ab22a 
-📫 **Email:** gauravsakpal@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/gaurav-sakpal-5021ab22a)
+📬 Reach me at: www.linkedin.com/in/gaurav-sakpal-5021ab22a
+
+📫 **Email:** gaurav2sakpal@gmail.com  
 
 ### 🔗 Connect with me:
 
@@ -17,6 +17,8 @@ Welcome to my GitHub! I'm an aspiring Data Analyst who's passionate about making
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+[![Instagram](https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)](https://www.instagram.com/sakp_algaurav)
 
 
 ## A little about me
@@ -36,11 +38,10 @@ I love connecting the dots between raw data and real decisions.
 
 Here are some tools I’m using and getting better at every day:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
 
@@ -49,8 +50,11 @@ Here are some tools I’m using and getting better at every day:
 - 🔧 [Refurbmate](https://github.com/GauravSakpa/Refurbmate)  
   *An e-commerce platform for premium refurbished smartphones — built with HTML, CSS, JS, PHP, and XAMPP.*
 
-- 📊 Data Analyst Portfolio (coming soon!)  
-  *Will include dashboard visualizations, exploratory data analysis, and SQL reports.*
+- 📈 [Sales Data Analysis with Excel](https://github.com/GauravSakpa/Sales-Data-Analysis)  
+  *Analyzed sales trends  Excel dashboards for business insights.*
+
+- 📊 [Power BI Visual Insights Project](https://github.com/GauravSakpa/PowerBI-Visuals)  
+  *Created multiple visuals in Power BI from the Online Retail dataset — sales KPIs, trends, and segmentation across tabs.*
 
 
 
