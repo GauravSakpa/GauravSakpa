@@ -53,8 +53,8 @@ Here are some tools I’m using and getting better at every day:
 - 📈 [Sales Data Analysis with Excel](https://github.com/GauravSakpa/Sales-Data-Analysis)  
   *Analyzed sales trends  Excel dashboards for business insights.*
 
-- 📊 [Power BI Visual Insights Project](https://github.com/GauravSakpa/PowerBI-Visuals)  
-  *Created multiple visuals in Power BI from the Online Retail dataset — sales KPIs, trends, and segmentation across tabs.*
+- 📊 [Power BI Visual Insights Project].(https://github.com/GauravSakpa/Cancer_patient_Dashboard)
+  *Built an interactive Power BI dashboard using a Kaggle healthcare dataset — analyzed patient demographics, treatment costs, survival outcomes, and follow-up trends across hospitals and doctors.*
 
 
 
