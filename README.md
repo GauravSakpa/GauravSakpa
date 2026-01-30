@@ -51,7 +51,6 @@ Here are some tools I’m using and getting better at every day:
   *An e-commerce platform for premium refurbished smartphones — built with HTML, CSS, JS, PHP, and XAMPP.*
 
   📊 Blinkit Sales Analytics Dashboard:(https://github.com/GauravSakpa/Blinkit_Dashboard)
-
   Interactive Power BI dashboard for analyzing sales, outlet performance, and product trends using KPIs, slicers, and DAX.
 
 - 📈 [Sales Data Analysis with Excel](https://github.com/GauravSakpa/Sales-Data-Analysis)  
