@@ -50,14 +50,15 @@ Here are some tools I’m using and getting better at every day:
 - 🔧 [Refurbmate](https://github.com/GauravSakpa/Refurbmate)  
   *An e-commerce platform for premium refurbished smartphones — built with HTML, CSS, JS, PHP, and XAMPP.*
 
+  📊 [Power BI Visual Insights Project] (https://github.com/GauravSakpa/Blinkit_Dashboard)
+  Blinkit Sales Analytics Dashboard: Interactive Power BI dashboard for analyzing sales, outlet performance, and product trends using KPIs, slicers, and DAX.
+
 - 📈 [Sales Data Analysis with Excel](https://github.com/GauravSakpa/Sales-Data-Analysis)  
   *Analyzed sales trends  Excel dashboards for business insights.*
 
 - 📊 [Power BI Visual Insights Project](https://github.com/GauravSakpa/Cancer_patient_Dashboard)
-                                                                                                                                                                 *Built an interactive Power BI dashboard using a Kaggle healthcare dataset — analyzed patient demographics, treatment costs, survival outcomes, and follow-up trends across hospitals and doctors.*
-
-
-
+  *Built an interactive Power BI dashboard using a Kaggle healthcare dataset — analyzed patient demographics, treatment costs, survival outcomes, and follow-up trends across hospitals and doctors.*
+   
 ## GitHub Stats
 
 ![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravSakpa&show_icons=true&theme=dracula)
